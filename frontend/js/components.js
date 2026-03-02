@@ -143,7 +143,7 @@ const footerHTML = `
     </div>
   </div>
 </footer>
-`;
+`;;
 
 // Inject components immediately
 const navbarContainer = document.getElementById('navbar');
